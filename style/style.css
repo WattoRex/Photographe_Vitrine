@@ -3,9 +3,9 @@
 }
 
 body {
-  font-family: 'Manrope', sans-serif;
+  font-family: "Manrope", sans-serif;
   font-size: 1em;
-  background-color: #1f2039;
+  background-color: #1b1c36;
 }
 
 a {
@@ -21,7 +21,7 @@ em {
 h1 {
   font-size: 3.5em;
   color: #a5b4fc;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 h2 {
@@ -87,7 +87,7 @@ nav a {
     align-items: center;
     justify-content: center;
   }
-  
+
   header nav img {
     margin-bottom: 20px;
   }
